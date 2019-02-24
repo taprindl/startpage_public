@@ -1,2 +1,3 @@
-# startpage_public
-Personal startpage - stripped of personal URLs
+# Startpage Public
+
+Download zip file and upload to your FTP - no configuration necessary. 
